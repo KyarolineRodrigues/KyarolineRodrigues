@@ -8,6 +8,16 @@ Currently working on AI-based accessibility solutions and full-stack projects.
 ---
 
 ## 💻 Featured Projects
+🔹 **ReviewAI – AI-Powered Business Growth SaaS**
+- AI-powered SaaS platform to improve Google Business presence
+- Automates review replies using Claude AI
+- Provides competitor analysis and SEO growth insights
+- Suggests required reviews, ratings, and photos to rank higher
+- Includes features like Q&A automation, suspension alerts, and holiday hours
+- Integrated Google OAuth for authentication
+- Implemented Razorpay for subscription-based payments
+- Built with Node.js, Express, Supabase
+- Deployed on Railway with production-ready setup
 
 🔹 **VisualAid — Image Captioning for Visually Impaired**
 - CNN (InceptionV3) + LSTM architecture  
